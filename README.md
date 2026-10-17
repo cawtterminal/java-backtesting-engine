@@ -4,7 +4,7 @@
 ![Maven](https://img.shields.io/badge/build-Maven-C71A36?logo=apachemaven)
 ![Tests](https://img.shields.io/badge/tests-JUnit%205-25A162?logo=junit5)
 ![License](https://img.shields.io/badge/license-MIT-blue)
-[![CI](https://github.com/TU_USUARIO/trading-bot-simulator/actions/workflows/ci.yml/badge.svg)](https://github.com/TU_USUARIO/trading-bot-simulator/actions/workflows/ci.yml)
+[![CI](https://github.com/cawtterminal/trading-bot-simulator/actions/workflows/ci.yml/badge.svg)](https://github.com/cawtterminal/trading-bot-simulator/actions/workflows/ci.yml)
 
 Motor de **backtesting** y librería de **indicadores técnicos** escrita en Java puro, sin dependencias externas en runtime. Permite simular estrategias de trading algorítmico sobre datos históricos (OHLCV), modelando costos reales de ejecución y evaluando los resultados con métricas profesionales de riesgo/retorno.
 
